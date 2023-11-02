@@ -3,7 +3,7 @@
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuCompany/publify](https://github.com/EmmanuCompany/publify)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|72<br/>Contributors|11/01/23 <br/>Report generated|10/27/23<br/>Last commit date|
+|42<br/>Tools used|72<br/>Contributors|11/02/23 <br/>Report generated|10/27/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
